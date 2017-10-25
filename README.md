@@ -2,7 +2,7 @@
 Presentation on my internship for previous school.
 
 ## Compilation
-Requires the [metropolis](https://github.com/matze/mtheme) and [pdfpc-commands](https://github.com/pdfpc/pdfpc.github.io/blob/master/demo/pdfpc-video-example/pdfpc-commands.sty) to be in the root directory.
+Requires the [metropolis](https://github.com/matze/mtheme), [pdfpc-commands](https://github.com/pdfpc/pdfpc.github.io/blob/master/demo/pdfpc-video-example/pdfpc-commands.sty) and [pdfpc-notes](https://raw.githubusercontent.com/cebe/pdfpc-latex-notes/master/pdfpcnotes.sty) to be in the root directory.
 Then run
 ```bash
 latexmk
