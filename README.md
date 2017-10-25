@@ -7,4 +7,4 @@ Then run
 ```bash
 latexmk
 ```
-and `main.pdf` will be generated. Can also be seen on [my website](tomeaton.uk/kespresentation.pdf)
+and `main.pdf` will be generated. Can also be seen on [my website](http://tomeaton.uk/kespresentation.pdf)
