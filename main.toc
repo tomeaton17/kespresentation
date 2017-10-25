@@ -1,5 +1,0 @@
-\select@language {english}
-\select@language {english}
-\select@language {english}
-\beamer@sectionintoc {1}{Year in Industry}{3}{0}{1}
-\beamer@sectionintoc {2}{My placement}{9}{0}{2}
