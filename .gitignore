@@ -222,3 +222,6 @@ TSWLatexianTemp*
 
 # sty files
 *.sty
+
+# generated pdf
+main.pdf
